@@ -1,0 +1,25 @@
+body{
+    background-image: url(../image/1920X430.jpeg);	
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+/*counter plugin*/
+.counter_ex, .magnific_ex{
+	padding: 50px 0;
+}
+.green{
+	font-size: 30px;
+	font-weight: 700;
+	color: #0E3803;
+	margin-bottom: 30px;
+}
+/*counter plugin*/
+/*magnefic popup plugin*/
+.m_custom a{
+    padding: 10px; 
+    color: #fff;
+}
+
+/*magnefic popup plugin*/
